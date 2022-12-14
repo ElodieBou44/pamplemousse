@@ -1,1 +1,2 @@
-Bonjour je m'appelle James et je suis dans la branche main. 
+Bonjour je m'appelle James et je suis dans la branche main.<br>
+Aujourd'hui, c'est la fete.  
